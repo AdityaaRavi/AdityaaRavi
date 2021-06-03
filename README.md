@@ -8,7 +8,7 @@ I am interested in all things AI and Robotics!
 - 📫 How to reach me: [email](mailto:adityaaravi6@gmail.com), [personal website](https://sites.google.com/view/adityaaravi), or [linked-in](https://www.linkedin.com/in/adityaaravi6/). 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: 
-    -.-- --- ..-     -.-. --- ..- .-.. -.. -. ·----· -     .-. . ... .. ... -     -.. . -.-. --- -.. .. -. --.     - .... .. ...     -- . ... ... .- --. . ·-·-·-     -·--· -.-- --- ..- ·----· .-. .     .-- . .-.. -.-. --- -- . -·--·-
+    .-..-. -. . ...- . .-. / --. --- -. -. .- / --. .. ...- . / -.-- --- ..- / ..- .--. .-.-.- .-.-.- .-.-.- .-.-.- .-..-.
 
 
 <!--

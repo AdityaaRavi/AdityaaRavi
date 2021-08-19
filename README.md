@@ -8,7 +8,7 @@ I am interested in all things AI and Robotics!
     - I am also volunteering this summer as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/). 
     - I am also a Co-Lead of the Robot arm team at [RoveCrest](https://aggielife.ucdavis.edu/organization/rovecrest). 
  
-- 🌱 I’m currently brushing up on Sci-kit Learn and the Salesforce Stack.
+- 🌱 I’m currently learning Tensorflow and Django.
 
 - 📫 How to reach me: [email](mailto:adityaaravi6@gmail.com), [personal website](https://sites.google.com/view/adityaaravi), or [linked-in](https://www.linkedin.com/in/adityaaravi6/). 
 

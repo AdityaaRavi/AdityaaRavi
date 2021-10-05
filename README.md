@@ -4,7 +4,7 @@ I am a 2nd year Computer Science and Engineering major at University of Californ
 I am interested in all things AI and Robotics!
 
 - 🔭 What do I do?
-    - I’m currently the Lead of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/). 
+    - I’m currently the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/). 
     - I am also volunteering this summer as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/). 
     - I am also a Co-Lead of the Robot arm team at [RoveCrest](https://aggielife.ucdavis.edu/organization/rovecrest). 
  

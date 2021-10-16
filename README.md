@@ -4,11 +4,12 @@ I am a 2nd year Computer Science and Engineering major at University of Californ
 I am interested in all things AI and Robotics!
 
 - 🔭 What do I do?
+    - I am an Undergraduate Student Researcher at the [DECAL Lab](https://decallab.cs.ucdavis.edu/).
     - I’m currently the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/). 
     - I am also volunteering as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/). 
-    - I am also a Co-Lead of the Robot arm team at [RoveCrest](https://aggielife.ucdavis.edu/organization/rovecrest). 
+     
  
-- 🌱 I’m currently learning Tensorflow and Django.
+- 🌱 I’m currently learning Tensorflow.
 
 - 📫 How to reach me: [email](mailto:adityaaravi6@gmail.com), [personal website](https://sites.google.com/view/adityaaravi), or [linked-in](https://www.linkedin.com/in/adityaaravi6/). 
 

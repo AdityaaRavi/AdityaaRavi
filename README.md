@@ -4,9 +4,10 @@ I am a 2nd year Computer Science and Engineering major at University of Californ
 I am interested in all things AI and Robotics!
 
 - 🔭 What do I do?
-    - I am an Undergraduate Student Researcher at the [DECAL Lab](https://decallab.cs.ucdavis.edu/).
+    - I am an Undergraduate Research Assistant at the [DECAL Lab](https://decallab.cs.ucdavis.edu/).
     - I’m currently the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/). 
-    - I am also volunteering as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/). 
+    - I'm currently the Chair at [UC Davis Computer Science Tutoring Committee](https://sites.google.com/view/cs-tutoring-ucd/home).
+    - I'm currently an Executive Director at SacHacks.
      
  
 - 🌱 I’m currently learning Tensorflow.
@@ -18,6 +19,8 @@ I am interested in all things AI and Robotics!
 - ⚡ Fun fact: 
     .-..-. -. . ...- . .-. / --. --- -. -. .- / --. .. ...- . / -.-- --- ..- / ..- .--. .-.-.- .-.-.- .-.-.- .-.-.- .-..-.
 
+- Previous Roles:
+    -  I volunteered as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/).
 
 <!--
 **AdityaaRavi/AdityaaRavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

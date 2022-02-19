@@ -4,6 +4,7 @@ I am a 2nd year Computer Science and Engineering major at University of Californ
 I am interested in all things AI and Robotics!
 
 - 🔭 What do I do?
+    - I will be joining [PayPal](https://www.paypal.com/) as a Software Engineering Intern this Summer.
     - I am an Undergraduate Research Assistant at the [DECAL Lab](https://decallab.cs.ucdavis.edu/).
     - I’m currently the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/). 
     - I'm currently the Chair at [UC Davis Computer Science Tutoring Committee](https://sites.google.com/view/cs-tutoring-ucd/home).

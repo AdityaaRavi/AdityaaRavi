@@ -1,17 +1,20 @@
 ### Hi there 👋
-I am a 2nd year Computer Science and Engineering major at University of California, Davis :cow:
+I am a 3rd year Computer Science and Engineering major at University of California, Davis :cow:
 
-I am interested in all things AI and Robotics!
+I am interested in all things AI and Full-Stack development!
 
 - 🔭 What do I do?
-    - I will be joining [PayPal](https://www.paypal.com/) as a Software Engineering Intern this Summer.
-    - I am an Undergraduate Research Assistant at the [DECAL Lab](https://decallab.cs.ucdavis.edu/).
-    - I’m currently the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/). 
-    - I'm currently the Chair at [UC Davis Computer Science Tutoring Committee](https://sites.google.com/view/cs-tutoring-ucd/home).
-    - I'm currently an Executive Director at SacHacks.
+    - I am tentatively planning to return to [PayPal](https://www.paypal.com/) as a Software Engineering Intern this Summer.
+    - I'm currently the President and Executive Director at [SacHacks](https://sachacks.io).
+    - I am an Undergraduate Research Assistant at the [DECAL Lab](https://decallab.cs.ucdavis.edu/) working on Machine Learning research related to code completion and static analysis warnings.
+    - I'm currently the President at [UC Davis Computer Science Tutoring Committee](https://sites.google.com/view/cs-tutoring-ucd/home).
      
+ - Previous Roles:
+    -  I interned with [PayPal](https://paypal.com) in Summer 2022 as Full-Stack Developer for the User and Identity Platforms team. 
+    -  I volunteered as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/).
+    -  I was the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/).
  
-- 🌱 I’m currently learning Tensorflow.
+- 🌱 I’m currently learning the theory behind various machine learning methods to complement my practical knowledge.
 
 - 📫 How to reach me: [email](mailto:adityaaravi6@gmail.com), [personal website](https://sites.google.com/view/adityaaravi), or [linked-in](https://www.linkedin.com/in/adityaaravi6/). 
 
@@ -20,8 +23,7 @@ I am interested in all things AI and Robotics!
 - ⚡ Fun fact: 
     .-..-. -. . ...- . .-. / --. --- -. -. .- / --. .. ...- . / -.-- --- ..- / ..- .--. .-.-.- .-.-.- .-.-.- .-.-.- .-..-.
 
-- Previous Roles:
-    -  I volunteered as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/).
+    
 
 <!--
 **AdityaaRavi/AdityaaRavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@ I am interested in all things AI and Full-Stack development!
 
 - 🔭 What do I do?
     - I am planning to return to [PayPal](https://www.paypal.com/) as a Software Engineering Intern this Summer.
-    - I'm currently the President and Executive Director at [SacHacks](https://sachacks.io).
+    - I'm currently the President and CEO at [SacHacks](https://sachacks.io).
     - I am an Undergraduate Research Assistant at the [DECAL Lab](https://decallab.cs.ucdavis.edu/) working on Machine Learning research related to code completion and static analysis warnings.
     - I'm currently the President at [UC Davis Computer Science Tutoring Committee](https://sites.google.com/view/cs-tutoring-ucd/home).
      
@@ -14,7 +14,7 @@ I am interested in all things AI and Full-Stack development!
     -  I volunteered as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/).
     -  I was the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/) until I hit the term limit.
  
-- 🌱 I’m currently learning the theory behind various machine learning methods to complement my practical knowledge.
+- 🌱 I'm currently building a large full-stack web-app as a fun project... Stay Tuned!
 
 - 📫 How to reach me: [email](mailto:adityaaravi6@gmail.com), [personal website](https://sites.google.com/view/adityaaravi), or [linked-in](https://www.linkedin.com/in/adityaaravi6/). 
 

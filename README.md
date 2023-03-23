@@ -14,7 +14,7 @@ I am interested in all things AI and Full-Stack development!
     -  I volunteered as a Full-Stack Developer for [ASUCD Pantry (UC Davis' food bank)](https://thepantry.ucdavis.edu/).
     -  I was the Lead (aka President) of the [Google Developer Student Clubs chapter at UC Davis](https://ucdavisdsc.com/) until I hit the term limit.
  
-- 🌱 I'm currently building a large full-stack web-app as a fun project... Stay Tuned!
+- 🌱 I'm currently building a full-stack web app with React, Node, and MySQL as a fun project... Stay Tuned!
 
 - 📫 How to reach me: [email](mailto:adityaaravi6@gmail.com), [personal website](https://sites.google.com/view/adityaaravi), or [linked-in](https://www.linkedin.com/in/adityaaravi6/). 
 

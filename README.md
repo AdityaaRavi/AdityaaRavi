@@ -1,5 +1,5 @@
 ## Hey there! 👋  
-I'm currently a Software Engineer on the Identity team at [PayPal](https://paypal.com), where I work on backend services that serve as the **system of record (SoR)** for user data.
+I'm currently a Software Engineer on the Identity team at [PayPal](https://paypal.com), where I work on high-traffic backend services that serve as the **system of record (SoR)** for user data.
 
 I'm passionate about **AI** and **Full-Stack Development**, and always eager to explore how technology can create meaningful impact.
 

@@ -9,9 +9,9 @@ I'm passionate about **AI** and **Full-Stack Development**, and always eager to 
 I graduated **with honors** from the **University of California, Davis** 🐮 in Spring 2024, earning a degree in **Computer Science and Engineering**.  
 
 Along the way, I was honored with:  
-- 🏅 The [**Outstanding Senior Award**](https://cs.ucdavis.edu/news/outstanding-senior-spotlight-adityaa-ravi) — given to one graduating senior per major in the UCD College of Engineering, recognizing leadership and impact in student organizations.  
+- 🏅 The [**Outstanding Senior Award**](https://cs.ucdavis.edu/news/outstanding-senior-spotlight-adityaa-ravi) — given to one graduating senior per major in the UCD College of Engineering, recognizing impact through leadership of student organizations.  
 - 📘 The **Outstanding Performance Award** from the UC Davis CS Department, for academic excellence.
-
+  
 ---
 
 ## 💼 Experience  
@@ -22,7 +22,7 @@ Along the way, I was honored with:
 
 ### Research  
 - **DECAL Lab** @ UC Davis: Undergraduate Research Assistant focused on **machine learning** for **code completion** and **static analysis**.  
-- **ML Education Research** with Prof. Rafatriad: Explored effective teaching strategies for machine learning concepts.
+- **ML Education Research** with Prof. Rafatriad: Explored effective teaching strategies for machine learning concepts, with a special focus on gamification.
 
 ### Student Organizations  
 - 🧠 **President, [Google Developer Group on Campus @ UC Davis](https://gdg.community.dev/gdg-on-campus-university-of-california-davis-davis-united-states/)** — Led an interdisciplinary team of 30+ students to ignite a passion for Computer Science through workshops, projects, and mentorship programs. Formerly known as the **Google Developer Student Club at UC Davis.**

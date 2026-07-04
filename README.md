@@ -1,5 +1,7 @@
 ## Hey there! 👋  
-I'm currently a Software Engineer on the Identity team at [PayPal](https://paypal.com), where I work on high-traffic backend services that serve as the **system of record (SoR)** for user data.
+I'm currently a Software Engineer on the Identity team at [Zip](www.zip.com).
+
+Before that, I was a SWE in the Identity team at [PayPal](https://paypal.com), where I worked on high-traffic backend services that serve as the **system of record (SoR)** for user data.
 
 I'm passionate about **AI** and **Full-Stack Development**, and always eager to explore how technology can create meaningful impact.
 
@@ -17,6 +19,8 @@ Along the way, I was honored with:
 ## 💼 Experience  
 
 ### Industry  
+- **Zip** (June 2026 - Present): Full-stack SWE in the Identity and Security team at Zip.
+- **PayPal** (July 2024 - June 2026): Backend Software Enginner in the User & Identity Platforms team. Built high traffic services that handled CRUD operations for all User and Account data of the 400 million+ PayPal users.
 - **PayPal** (Summer 2022 & 2023): Full-Stack Software Engineering Intern on the User & Identity Platforms team. Worked with **Spring**, **Node.js**, **React**, **MySQL**, and **Oracle SQL**.  
 - **ASUCD Pantry** (Summer 2021): Volunteer Full-Stack Developer for UC Davis' student-run food bank, building tools to support food accessibility.
 
